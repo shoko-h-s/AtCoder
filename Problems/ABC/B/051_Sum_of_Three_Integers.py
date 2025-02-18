@@ -1,3 +1,6 @@
+# 3重ループにつき、PyPyで提出
+# CPythonではTLE
+
 k, s = map(int, input().split())
 
 count = 0
