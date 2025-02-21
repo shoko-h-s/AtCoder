@@ -1,3 +1,5 @@
+# Training Easy 11 にも掲載
+
 n = int(input())
 
 # 負の値で初期化
