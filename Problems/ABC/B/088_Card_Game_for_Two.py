@@ -1,3 +1,5 @@
+# Training Easy 10 にも掲載
+
 n = int(input())
 a_list = list(map(int, input().split()))
 
