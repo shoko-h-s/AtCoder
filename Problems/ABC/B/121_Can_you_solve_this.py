@@ -18,4 +18,4 @@ print(count)
 
 
 # 【備考】
-# Training Easy 5 にも掲載
+# Training Easy 5
