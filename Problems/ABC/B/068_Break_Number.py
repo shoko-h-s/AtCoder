@@ -22,4 +22,4 @@ print(answer)
 
 
 # 【備考】
-# Training Easy 11 にも掲載
+# Training Easy 11
