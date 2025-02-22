@@ -1,5 +1,3 @@
-# Training Easy 5 にも掲載
-
 n, m, c = map(int, input().split())
 b_list = list(map(int, input().split()))
 a_list = [list(map(int, input().split())) for _ in range(n)]
@@ -16,3 +14,8 @@ for i in range(n):
         count += 1
         
 print(count)
+
+
+
+# 【備考】
+# Training Easy 5 にも掲載
