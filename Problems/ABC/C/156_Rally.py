@@ -1,5 +1,3 @@
-# Training Easy 2 にも掲載
-
 n = int(input())
 x_list = list(map(int, input().split()))
 
@@ -15,3 +13,8 @@ x_sum_1 = sum(x_var_1)
 x_sum_2 = sum(x_var_2)
 
 print(min(x_sum_1, x_sum_2))
+
+
+
+# 【備考】
+# Training Easy 2 にも掲載
