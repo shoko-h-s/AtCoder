@@ -14,4 +14,4 @@ print(" ".join(map(str, a_sorted.keys())))
 
 
 # 【備考】
-# Training Easy 16 にも掲載
+# Training Easy 16
