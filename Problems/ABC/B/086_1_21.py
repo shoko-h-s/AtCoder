@@ -12,4 +12,4 @@ else:
 
 
 # 【備考】
-# Training Easy 8 にも掲載
+# Training Easy 8
