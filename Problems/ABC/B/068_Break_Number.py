@@ -1,5 +1,3 @@
-# Training Easy 11 にも掲載
-
 n = int(input())
 
 # 負の値で初期化
@@ -20,3 +18,8 @@ for i in range(1, n+1):
         answer = target
 
 print(answer)
+
+
+
+# 【備考】
+# Training Easy 11 にも掲載
