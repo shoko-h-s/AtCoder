@@ -24,4 +24,4 @@ print(length)
 
 
 # 【備考】
-# Training Easy 18 にも掲載
+# Training Easy 18
