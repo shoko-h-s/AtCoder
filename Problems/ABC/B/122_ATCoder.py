@@ -20,3 +20,8 @@ for s in s_list:
         l = 0
 
 print(length)
+
+
+
+# 【備考】
+# Training Easy 18 にも掲載
