@@ -20,4 +20,4 @@ print(min(xn_count, xz_count))
 
 
 # 【備考】
-# Training Easy 19 にも掲載
+# Training Easy 19
