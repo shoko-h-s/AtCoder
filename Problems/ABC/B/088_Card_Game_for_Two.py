@@ -18,4 +18,4 @@ print(alice - bob)
 
 
 # 【備考】
-# Training Easy 10 にも掲載
+# Training Easy 10
