@@ -1,5 +1,3 @@
-# Training Easy 13 にも掲載
-
 a, b, c = map(int, input().split())
 
 count = 0
@@ -25,3 +23,8 @@ else:
             break
             
     print(count)
+
+
+
+# 【備考】
+# Training Easy 13 にも掲載
