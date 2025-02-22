@@ -27,4 +27,4 @@ else:
 
 
 # 【備考】
-# Training Easy 13 にも掲載
+# Training Easy 13
