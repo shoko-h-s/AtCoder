@@ -1,5 +1,3 @@
-# Training Easy 8 にも掲載
-
 a, b = input().split()
 n = int(a + b)
 
@@ -10,3 +8,8 @@ if len(divisors) % 2 == 1:
     print("Yes")
 else:
     print("No")
+
+
+
+# 【備考】
+# Training Easy 8 にも掲載
