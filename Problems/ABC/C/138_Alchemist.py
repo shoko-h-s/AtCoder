@@ -16,4 +16,4 @@ print(v_sorted[0])
 
 
 # 【備考】
-# Training Easy 17 にも掲載
+# Training Easy 17
