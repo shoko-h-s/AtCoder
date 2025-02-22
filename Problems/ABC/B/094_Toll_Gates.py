@@ -1,5 +1,3 @@
-# Training Easy 19 にも掲載
-
 n, m, x = map(int, input().split())
 a_list = list(map(int, input().split()))
 
@@ -18,3 +16,8 @@ for i in range(x+1):
 
 # 2ルートのうち、小さい方が答え
 print(min(xn_count, xz_count))
+
+
+
+# 【備考】
+# Training Easy 19 にも掲載
