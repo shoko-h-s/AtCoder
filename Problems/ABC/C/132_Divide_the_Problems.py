@@ -20,4 +20,4 @@ else:
 
 
 # 【備考】
-# Training Easy 15 にも掲載
+# Training Easy 15
