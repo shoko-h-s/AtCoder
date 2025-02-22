@@ -10,4 +10,5 @@
 ](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/A/014_Cookie_Exchanges.py)\
 15. [C_132_Divide_the_Problems](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/132_Divide_the_Problems.py)\
 16. [C_142_Go_to_School](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/142_Go_to_School.py)\
-17. [C_138_Alchemist](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/138_Alchemist.py)
+17. [C_138_Alchemist](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/138_Alchemist.py)\
+18. [B_122_ATCoder](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/122_ATCoder.py)
