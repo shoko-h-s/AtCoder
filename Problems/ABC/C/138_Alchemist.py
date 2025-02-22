@@ -1,5 +1,3 @@
-# Training Easy 17 にも掲載
-
 n = int(input())
 v_list = list(map(int, input().split()))
 
@@ -14,3 +12,8 @@ for _ in range(n-1):
     v_sorted.append(new_v)
     
 print(v_sorted[0])
+
+
+
+# 【備考】
+# Training Easy 17 にも掲載
