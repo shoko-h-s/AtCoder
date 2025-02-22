@@ -1,5 +1,3 @@
-# Training Easy 15 にも掲載
-
 n = int(input())
 d_list = list(map(int, input().split()))
 
@@ -18,3 +16,8 @@ if min_k == max_k:
     print(0)
 else:
     print(max_k - min_k)
+
+
+
+# 【備考】
+# Training Easy 15 にも掲載
