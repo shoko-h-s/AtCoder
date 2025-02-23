@@ -14,3 +14,4 @@
 18. [B_122_ATCoder](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/122_ATCoder.py)\
 19. [B_094_Toll_Gates](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/094_Toll_Gates.py)\
 20. [B_116_Collatz_Problem](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/116_Collatz_Problem.py)\
+21. [C_149_Next_Prime](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/149_Next_Prime.py)\
