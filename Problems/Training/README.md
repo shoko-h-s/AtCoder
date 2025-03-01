@@ -15,4 +15,5 @@
 19. [B_094_Toll_Gates](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/094_Toll_Gates.py)\
 20. [B_116_Collatz_Problem](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/116_Collatz_Problem.py)\
 21. [C_149_Next_Prime](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/149_Next_Prime.py)\
-25. [C_150_Count_Order](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/150_Count_Order.py)
+25. [C_150_Count_Order](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/150_Count_Order.py)\
+27. [B_158_Count_Balls](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/158_Count_Balls.py)
