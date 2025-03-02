@@ -19,3 +19,4 @@
 27. [B_158_Count_Balls](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/158_Count_Balls.py)\
 28. [B_081_Shift_only](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/081_Shift_only.py)\
 29. [B_114_754](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/114_754.py)\
+31. [B_063_Varied](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/063_Varied.py)\
