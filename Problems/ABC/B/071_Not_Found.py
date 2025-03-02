@@ -16,3 +16,8 @@ if bucket.count(0) == 0:
 else:
     num = bucket.index(0)
     print(chr(num + 97))
+
+
+
+# 【備考】
+# Training Easy 35
