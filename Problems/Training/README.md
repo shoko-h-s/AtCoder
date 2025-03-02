@@ -22,3 +22,4 @@
 31. [B_063_Varied](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/063_Varied.py)\
 32. [B_052_Increment_Decrement](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/052_Increment_Decrement.py)\
 33. [B_084_Postal_Code](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/084_Postal_Code.py)\
+34. [B_087_Coins](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/087_Coins.py)\
