@@ -17,3 +17,8 @@ while flag:
             count += 1
 
 print(count)
+
+
+
+# 【備考】
+# Training Easy 28
