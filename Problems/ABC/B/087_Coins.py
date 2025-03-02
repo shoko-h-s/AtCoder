@@ -14,3 +14,8 @@ for i in range(a+1):
                 count += 1
                 
 print(count)
+
+
+
+# 【備考】
+# Training Easy 34
