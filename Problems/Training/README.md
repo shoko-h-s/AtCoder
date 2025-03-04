@@ -27,3 +27,4 @@
 37. [C_141_Attack_Survival](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/141_Attack_Survival.py)\
 38. [B_123_Five_Dishes](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/123_Five_Dishes.py)\
 39. [C_134_Exception_Handling](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/134_Exception_Handling.py)\
+42. [B_118_Foods_Loved_by_Everyone](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/118_Foods_Loved_by_Everyone.py)\
