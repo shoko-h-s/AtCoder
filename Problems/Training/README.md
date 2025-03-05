@@ -30,3 +30,4 @@
 42. [B_118_Foods_Loved_by_Everyone](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/118_Foods_Loved_by_Everyone.py)\
 43. [B_044_Beautiful_Strings](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/044_Beautiful_Strings.py)\
 44. [C_124_Coloring_Colorfully](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/124_Coloring_Colorfully.py)\
+45. [B_090_Palindromic_Numbers](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/090_Palindromic_Numbers.py)\
