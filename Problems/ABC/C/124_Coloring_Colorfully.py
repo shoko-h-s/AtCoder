@@ -26,7 +26,7 @@ else:
         print(tile_1)
     else:
         print(tile_2)
-  
+
 
 
 # 【備考】
