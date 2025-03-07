@@ -32,3 +32,4 @@
 44. [C_124_Coloring_Colorfully](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/124_Coloring_Colorfully.py)\
 45. [B_090_Palindromic_Numbers](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/090_Palindromic_Numbers.py)\
 49. [B_062_Picture_Frame](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/062_Picture_Frame.py)\
+50. [B_059_Comparison](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/059_Comparison.py)\
