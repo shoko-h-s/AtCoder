@@ -1,4 +1,5 @@
 # Python の int 型には上限値なし
+
 a = int(input())
 b = int(input())
 
