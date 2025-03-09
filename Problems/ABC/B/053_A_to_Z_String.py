@@ -15,3 +15,8 @@ for s in subst_list:
         max_subst = len(s)
         
 print(max_subst)
+
+
+
+# 【備考】
+# Training Easy 65
