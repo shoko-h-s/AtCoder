@@ -35,3 +35,4 @@
 50. [B_059_Comparison](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/059_Comparison.py)\
 51. [B_083_Some_Sums](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/083_Some_Sums.py)\
 53. [B_061_Counting_Roads](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/061_Counting_Roads.py)\
+54. [B_109_Shiritori](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/109_Shiritori.py)\
