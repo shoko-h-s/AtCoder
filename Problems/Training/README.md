@@ -40,3 +40,4 @@
 56. [B_093_Small_and_Large_Integers](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/093_Small_and_Large_Integers.py)\
 58. [B_113_Palace](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/113_Palace.py)\
 59. [B_104_AcCepted](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/104_AcCepted.py)\
+60. [B_050_Contest_with_Drinks_Easy](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/050_Contest_with_Drinks_Easy.py)\
