@@ -38,3 +38,4 @@
 54. [B_109_Shiritori](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/109_Shiritori.py)\
 55. [B_133_Good_Distance](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/133_Good_Distance.py)\
 56. [B_093_Small_and_Large_Integers](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/093_Small_and_Large_Integers.py)\
+58. [B_113_Palace](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/113_Palace.py)\
