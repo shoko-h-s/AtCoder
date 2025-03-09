@@ -36,3 +36,4 @@
 51. [B_083_Some_Sums](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/083_Some_Sums.py)\
 53. [B_061_Counting_Roads](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/061_Counting_Roads.py)\
 54. [B_109_Shiritori](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/109_Shiritori.py)\
+55. [B_133_Good_Distance](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/133_Good_Distance.py)\
