@@ -46,3 +46,4 @@
 64. [B_058_∵∴∵](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/058.py)\
 65. [B_053_A_to_Z_String](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/053_A_to_Z_String.py)\
 71. [B_042_Iroha_Loves_Strings](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/042_Iroha_Loves_Strings.py)\
+76. [C_151_Welcome_to_AtCoder](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/151_Welcome_to_AtCoder.py)\
