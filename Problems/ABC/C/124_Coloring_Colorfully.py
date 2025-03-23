@@ -14,7 +14,6 @@ if (s == pattern_1) or (s == pattern_2):
     print(0)
 
 # 2パターンと一致している個数を調べる
-# どちらか片方だけ調べれば良い
 else:
     for i in range(len(s)):
         if s[i] == pattern_1[i]:
