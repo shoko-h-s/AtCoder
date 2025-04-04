@@ -1,5 +1,5 @@
 n, s, d = map(int, input().split())
-xy_list = [list(map(int, input().split())) for i in range(n)]
+xy_list = [list(map(int, input().split())) for _ in range(n)]
 
 flag = False
 
