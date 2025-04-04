@@ -49,3 +49,4 @@
 71. [B_042_Iroha_Loves_Strings](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/042_Iroha_Loves_Strings.py)\
 76. [C_151_Welcome_to_AtCoder](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/151_Welcome_to_AtCoder.py)\
 83. [C_087_Candies](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/087_Candies.py)\
+88. [B_091_Two_Colors_Card_Game](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/091_Two_Colors_Card_Game.py)\
