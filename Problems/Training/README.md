@@ -1,6 +1,6 @@
 別ディレクトリに保存分\
 \
-【Easy】\
+【Easy】
 1. [B_139_Power_Socket](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/139_Power_Socket.py)\
 2. [C_156_Rally](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/156_Rally.py)\
 5. [B_121_Can_you_solve_this](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/121_Can_you_solve_this.py)\
