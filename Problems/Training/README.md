@@ -1,53 +1,53 @@
 別ディレクトリに保存分\
 \
 【Easy】\
-1.  [B_139_Power_Socket](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/139_Power_Socket.py)\
-2.  [C_156_Rally](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/156_Rally.py)\
-5.  [B_121_Can_you_solve_this](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/121_Can_you_solve_this.py)\
-8.  [B_086_1_21](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/086_1_21.py)\
-10.  [B_088_Card_Game_for_Two](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/088_Card_Game_for_Two.py)\
-11.  [B_068_Break_Number](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/068_Break_Number.py)\
-12.  [C_160_Traveling_Salesman_around_Lake](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/160_Traveling_Salesman_around_Lake.py)\
-13.  [A_014_ Cookie_Exchanges
+1-[B_139_Power_Socket](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/139_Power_Socket.py)\
+2-[C_156_Rally](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/156_Rally.py)\
+5-[B_121_Can_you_solve_this](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/121_Can_you_solve_this.py)\
+8-[B_086_1_21](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/086_1_21.py)\
+10-[B_088_Card_Game_for_Two](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/088_Card_Game_for_Two.py)\
+11-[B_068_Break_Number](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/068_Break_Number.py)\
+12-[C_160_Traveling_Salesman_around_Lake](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/160_Traveling_Salesman_around_Lake.py)\
+13-[A_014_ Cookie_Exchanges
  ](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/A/014_Cookie_Exchanges.py)\
-15.  [C_132_Divide_the_Problems](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/132_Divide_the_Problems.py)\
-16.  [C_142_Go_to_School](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/142_Go_to_School.py)\
-17.  [C_138_Alchemist](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/138_Alchemist.py)\
-18.  [B_122_ATCoder](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/122_ATCoder.py)\
-19.  [B_094_Toll_Gates](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/094_Toll_Gates.py)\
-20.  [B_116_Collatz_Problem](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/116_Collatz_Problem.py)\
-21.  [C_149_Next_Prime](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/149_Next_Prime.py)\
-25.  [C_150_Count_Order](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/150_Count_Order.py)\
-27.  [B_158_Count_Balls](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/158_Count_Balls.py)\
-28.  [B_081_Shift_only](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/081_Shift_only.py)\
-29.  [B_114_754](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/114_754.py)\
-31.  [B_063_Varied](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/063_Varied.py)\
-32.  [B_052_Increment_Decrement](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/052_Increment_Decrement.py)\
-33.  [B_084_Postal_Code](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/084_Postal_Code.py)\
-34.  [B_087_Coins](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/087_Coins.py)\
-35.  [B_071_Not_Found](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/071_Not_Found.py)\
-37.  [C_141_Attack_Survival](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/141_Attack_Survival.py)\
-38.  [B_123_Five_Dishes](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/123_Five_Dishes.py)\
-39.  [C_134_Exception_Handling](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/134_Exception_Handling.py)\
-42.  [B_118_Foods_Loved_by_Everyone](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/118_Foods_Loved_by_Everyone.py)\
-43.  [B_044_Beautiful_Strings](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/044_Beautiful_Strings.py)\
-44.  [C_124_Coloring_Colorfully](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/124_Coloring_Colorfully.py)\
-45.  [B_090_Palindromic_Numbers](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/090_Palindromic_Numbers.py)\
-49.  [B_062_Picture_Frame](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/062_Picture_Frame.py)\
-50.  [B_059_Comparison](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/059_Comparison.py)\
-51.  [B_083_Some_Sums](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/083_Some_Sums.py)\
-53.  [B_061_Counting_Roads](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/061_Counting_Roads.py)\
-54.  [B_109_Shiritori](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/109_Shiritori.py)\
-55.  [B_133_Good_Distance](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/133_Good_Distance.py)\
-56.  [B_093_Small_and_Large_Integers](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/093_Small_and_Large_Integers.py)\
-58.  [B_113_Palace](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/113_Palace.py)\
-59.  [B_104_AcCepted](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/104_AcCepted.py)\
-60.  [B_050_Contest_with_Drinks_Easy](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/050_Contest_with_Drinks_Easy.py)\
-61.  [B_103_String_Rotation](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/103_String_Rotation.py)\
-62.  [B_049_Thin](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/049_Thin.py)\
-64.  [B_058_∵∴∵](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/058.py)\
-65.  [B_053_A_to_Z_String](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/053_A_to_Z_String.py)\
-71.  [B_042_Iroha_Loves_Strings](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/042_Iroha_Loves_Strings.py)\
-76.  [C_151_Welcome_to_AtCoder](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/151_Welcome_to_AtCoder.py)\
-83.  [C_087_Candies](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/087_Candies.py)\
-88.  [B_091_Two_Colors_Card_Game](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/091_Two_Colors_Card_Game.py)\
+15-[C_132_Divide_the_Problems](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/132_Divide_the_Problems.py)\
+16-[C_142_Go_to_School](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/142_Go_to_School.py)\
+17-[C_138_Alchemist](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/138_Alchemist.py)\
+18-[B_122_ATCoder](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/122_ATCoder.py)\
+19-[B_094_Toll_Gates](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/094_Toll_Gates.py)\
+20-[B_116_Collatz_Problem](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/116_Collatz_Problem.py)\
+21-[C_149_Next_Prime](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/149_Next_Prime.py)\
+25-[C_150_Count_Order](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/150_Count_Order.py)\
+27-[B_158_Count_Balls](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/158_Count_Balls.py)\
+28-[B_081_Shift_only](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/081_Shift_only.py)\
+29-[B_114_754](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/114_754.py)\
+31-[B_063_Varied](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/063_Varied.py)\
+32-[B_052_Increment_Decrement](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/052_Increment_Decrement.py)\
+33-[B_084_Postal_Code](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/084_Postal_Code.py)\
+34-[B_087_Coins](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/087_Coins.py)\
+35-[B_071_Not_Found](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/071_Not_Found.py)\
+37-[C_141_Attack_Survival](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/141_Attack_Survival.py)\
+38-[B_123_Five_Dishes](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/123_Five_Dishes.py)\
+39-[C_134_Exception_Handling](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/134_Exception_Handling.py)\
+42-[B_118_Foods_Loved_by_Everyone](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/118_Foods_Loved_by_Everyone.py)\
+43-[B_044_Beautiful_Strings](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/044_Beautiful_Strings.py)\
+44-[C_124_Coloring_Colorfully](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/124_Coloring_Colorfully.py)\
+45-[B_090_Palindromic_Numbers](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/090_Palindromic_Numbers.py)\
+49-[B_062_Picture_Frame](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/062_Picture_Frame.py)\
+50-[B_059_Comparison](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/059_Comparison.py)\
+51-[B_083_Some_Sums](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/083_Some_Sums.py)\
+53-[B_061_Counting_Roads](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/061_Counting_Roads.py)\
+54-[B_109_Shiritori](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/109_Shiritori.py)\
+55-[B_133_Good_Distance](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/133_Good_Distance.py)\
+56-[B_093_Small_and_Large_Integers](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/093_Small_and_Large_Integers.py)\
+58-[B_113_Palace](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/113_Palace.py)\
+59-[B_104_AcCepted](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/104_AcCepted.py)\
+60-[B_050_Contest_with_Drinks_Easy](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/050_Contest_with_Drinks_Easy.py)\
+61-[B_103_String_Rotation](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/103_String_Rotation.py)\
+62-[B_049_Thin](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/049_Thin.py)\
+64-[B_058_∵∴∵](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/058.py)\
+65-[B_053_A_to_Z_String](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/053_A_to_Z_String.py)\
+71-[B_042_Iroha_Loves_Strings](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/042_Iroha_Loves_Strings.py)\
+76-[C_151_Welcome_to_AtCoder](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/151_Welcome_to_AtCoder.py)\
+83-[C_087_Candies](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/087_Candies.py)\
+88-[B_091_Two_Colors_Card_Game](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/091_Two_Colors_Card_Game.py)\
