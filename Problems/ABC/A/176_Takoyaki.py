@@ -1,8 +1,6 @@
-import math
-
 n, x, t = map(int, input().split())
 
 # 作る回数を求める
-num = math.ceil(n / x)
+num = (n + x - 1) // x
 
 print(t * num)
