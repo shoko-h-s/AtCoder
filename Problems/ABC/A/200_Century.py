@@ -1,5 +1,3 @@
-import math
-
 n = int(input())
 
-print(math.ceil(n / 100))
+print((n + 100 - 1) // 100)
