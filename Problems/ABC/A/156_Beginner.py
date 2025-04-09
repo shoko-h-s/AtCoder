@@ -1,5 +1,3 @@
-# 156_Beginner
-
 n, r = map(int, input().split())
 
 if n >= 10:
