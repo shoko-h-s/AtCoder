@@ -18,8 +18,3 @@ if flag:
     print("Yes")
 else:
     print("No")
-
-
-
-# 【備考】
-# AGC_003
