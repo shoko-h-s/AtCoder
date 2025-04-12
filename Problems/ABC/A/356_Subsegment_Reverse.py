@@ -9,4 +9,4 @@ a3 = a_list[r:]
 
 b_list = a1 + a2 + a3
 
-print(" ".join(map(str, b_list)))
+print(*b_list)
