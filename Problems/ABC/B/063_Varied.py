@@ -1,19 +1,12 @@
 s = input()
 
-count_list = [s[0]]
-flag = True
+# 集合を作り、元の文字列と要素数が一致すれば yes
+s_set = set(s)
 
-for i in range(1, len(s)):
-    if s[i] in count_list:
-        print("no")
-        flag = False
-        break
-        
-    else:
-        count_list.append(s[i])
-        
-if flag:
+if len(s) == len(s_set):
     print("yes")
+else:
+    print("no")
 
 
 
