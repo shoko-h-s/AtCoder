@@ -1,10 +1,8 @@
-a, b, c = map(int, input().split())
+num_list = list(map(int, input().split()))
 
-if a == b == c:
-    print("No")
-    
-elif (a == b) or (b == c) or (c == a):
+num_set = set(num_list)
+
+if len(num_set) == 2:
     print("Yes")
-    
 else:
     print("No")
