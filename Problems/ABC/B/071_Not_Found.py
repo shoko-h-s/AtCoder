@@ -1,21 +1,22 @@
-s = input()
+import string
 
-bucket = [0] * 26
+# 英小文字の集合を作成
+chr_list = list(string.ascii_lowercase)
+chr_set = set(chr_list)
 
-for i in range(len(s)):
-    
-    # アルファベット小文字の何文字目かを求める（インデックスにしたいので-1）
-    c = ord(s[i]) - 97
-    
-    bucket[c] += 1
-    
-# カウントが0となる、最も早いインデックスを求める
-if bucket.count(0) == 0:
-    print("None")
-    
+s_list = list(input())
+
+s_set = set(s_list)
+
+# 英小文字集合 - s に現れる文字集合の結果（差集合）をリストに直す
+answer_list = list(chr_set - s_set)
+
+answer_sorted = sorted(answer_list)
+
+if len(answer_sorted) > 0:
+    print(answer_sorted[0])
 else:
-    num = bucket.index(0)
-    print(chr(num + 97))
+    print("None")
 
 
 
