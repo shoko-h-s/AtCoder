@@ -1,11 +1,10 @@
-x, y = map(int, input().split())
+set_1 = {1, 3, 5, 7, 8, 10, 12}
+set_2 = {4, 6, 9, 11}
 
-list_1 = [1, 3, 5, 7, 8, 10, 12]
-list_2 = [4, 6, 9, 11]
+xy_set = set(map(int, input().split()))
 
-if (x in list_1) and (y in list_1):
-    print("Yes")
-elif (x in list_2) and (y in list_2):
+# x, y が、どちらかのグループの部分集合かどうか調べる
+if (xy_set <= set_1) or (xy_set <= set_2):
     print("Yes")
 else:
     print("No")
