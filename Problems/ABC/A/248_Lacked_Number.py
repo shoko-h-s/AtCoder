@@ -1,18 +1,8 @@
-s = list(input())
+num_set = {"0", "1", "2", "3", "4", "5", "6", "7", "8", "9"}
 
-# リストで受け取った文字列を、昇順にソート
-s_sorted = sorted(s)
+s_list = list(input())
+s_set = set(s_list)
 
-flag = False
+answer_set = num_set - s_set
 
-# 昇順に並べた文字列と、インデックスを比較
-# 一致しないインデックスが答え
-for i in range(9):
-    if int(s_sorted[i]) != i:
-        print(i)
-        flag = True
-        break
-        
-# 昇順に並べた文字列と一致し続けた場合は、9 が答え
-if not flag:
-    print(9)
+print(*answer_set)
