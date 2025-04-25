@@ -1,15 +1,12 @@
+word_set = {"and", "not", "that", "the", "you"}
+
 n = int(input())
 w_list = list(input().split())
 
-words = ["and", "not", "that", "the", "you"]
-flag = False
+w_set = set(w_list)
 
-for w in w_list:
-    if w in words:
-        flag = True
-        break
-        
-if flag:
+# w_set と word_set の積集合に要素があれば Yes
+if w_set & word_set:
     print("Yes")
 else:
     print("No")
