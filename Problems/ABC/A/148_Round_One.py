@@ -1,14 +1,7 @@
-a = int(input())
-b = int(input())
+num_set = {1, 2, 3}
 
-wa_list = [a, b]
+ab_set = {int(input()) for _ in range(2)}
 
-# リストにない要素が答えになる
-if wa_list.count(1) == 0:
-    print(1)
-    
-elif wa_list.count(2) == 0:
-    print(2)
-    
-else:
-    print(3)
+answer_set = num_set - ab_set
+
+print(*answer_set)
