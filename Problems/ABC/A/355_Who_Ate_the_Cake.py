@@ -1,10 +1,11 @@
 a, b = map(int, input().split())
+ab_set = {a, b}
 
-# a と b が一致しない時のみ、特定可能
-if a != b:
-    
-    # 1 + 2 + 3 = 6 となることを利用
-    print(6 - a - b)
-    
+num_set = {1, 2, 3}
+
+answer_set = num_set - ab_set
+
+if len(answer_set) == 1:
+    print(*answer_set)
 else:
     print(-1)
