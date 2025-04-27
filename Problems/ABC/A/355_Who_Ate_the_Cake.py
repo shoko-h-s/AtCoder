@@ -1,11 +1,11 @@
 a, b = map(int, input().split())
-ab_set = {a, b}
 
 num_set = {1, 2, 3}
 
-answer_set = num_set - ab_set
+num_set.discard(a)
+num_set.discard(b)
 
-if len(answer_set) == 1:
-    print(*answer_set)
+if len(num_set) == 1:
+    print(*num_set)
 else:
     print(-1)
