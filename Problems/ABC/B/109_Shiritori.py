@@ -1,6 +1,3 @@
-# B_109_Shiritori
-# Training Easy 54
-
 n = int(input())
 w_list = [input() for _ in range(n)]
 
