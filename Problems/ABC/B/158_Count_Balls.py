@@ -15,11 +15,7 @@ else:
     mod = n % turn
     
     # 余りと a、小さい方の値を足す
-    if mod >= a:
-        print(balls + a)
-        
-    else:
-        print(balls + mod)
+    print(balls + min(a, mod))
 
 
 
