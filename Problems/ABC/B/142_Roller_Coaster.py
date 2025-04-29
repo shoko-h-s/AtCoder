@@ -1,10 +1,6 @@
 n, k = map(int, input().split())
 h_list = list(map(int, input().split()))
 
-count = 0
+hk_list = [h for h in h_list if h >= k]
 
-for h in h_list:
-    if h >= k:
-        count += 1
-        
-print(count)
+print(len(hk_list))
