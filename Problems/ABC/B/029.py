@@ -1,9 +1,5 @@
 s_list = [input() for _ in range(12)]
 
-count = 0
+sr_list = [s for s in s_list if "r" in s]
 
-for s in s_list:
-    if "r" in s:
-        count += 1
-        
-print(count)
+print(len(sr_list))
