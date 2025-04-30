@@ -1,13 +1,13 @@
+import numpy as np
+
 n = int(input())
 a_list = list(map(int, input().split()))
 b_list = list(map(int, input().split()))
 
-ab_dot = 0
+a_np = np.array(a_list)
+b_np = np.array(b_list)
 
-for a, b in zip(a_list, b_list):
-    ab_dot += a * b
-    
-if ab_dot == 0:
+if np.dot(a_np, b_np) == 0:
     print("Yes")
 else:
     print("No")
