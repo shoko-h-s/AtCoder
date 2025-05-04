@@ -27,8 +27,3 @@ for o in order_list:
         min_time = t
         
 print(min_time)
-
-
-
-# 【備考】
-# Training Easy 38
