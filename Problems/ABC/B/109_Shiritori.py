@@ -19,8 +19,3 @@ for i in range(1, n):
         
 if success_flag:
     print("Yes")
-
-
-
-# 【備考】
-# Training Easy 54
