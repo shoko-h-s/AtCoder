@@ -11,8 +11,3 @@ for a in a_list:
         print(a_sorted[1])
     else:
         print(a_max)
-
-
-
-# 【備考】
-# Training Easy 39
