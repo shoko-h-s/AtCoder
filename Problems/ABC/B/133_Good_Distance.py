@@ -24,8 +24,3 @@ for com in com_list:
         count += 1
         
 print(count)
-
-
-
-# 【備考】
-# Training Easy 55
