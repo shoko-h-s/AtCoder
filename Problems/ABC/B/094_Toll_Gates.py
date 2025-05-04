@@ -16,8 +16,3 @@ for i in range(x+1):
 
 # 2ルートのうち、小さい方が答え
 print(min(xn_count, xz_count))
-
-
-
-# 【備考】
-# Training Easy 19
