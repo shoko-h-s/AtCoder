@@ -12,8 +12,3 @@ for _ in range(n-1):
     v_sorted.append(new_v)
     
 print(v_sorted[0])
-
-
-
-# 【備考】
-# Training Easy 17
