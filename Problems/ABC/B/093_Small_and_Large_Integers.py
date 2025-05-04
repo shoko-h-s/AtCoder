@@ -17,8 +17,3 @@ else:
 
     for s in new_sorted:
         print(s)
-
-
-
-# 【備考】
-# Training Easy 56
