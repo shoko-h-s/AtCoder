@@ -8,8 +8,3 @@ if len(divisors) % 2 == 1:
     print("Yes")
 else:
     print("No")
-
-
-
-# 【備考】
-# Training Easy 8
