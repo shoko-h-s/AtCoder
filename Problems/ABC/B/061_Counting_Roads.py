@@ -12,8 +12,3 @@ for ab in ab_list:
     
 for r in roads:
     print(r)
-
-
-
-# 【備考】
-# Training Easy 53
