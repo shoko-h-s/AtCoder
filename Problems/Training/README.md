@@ -6,7 +6,7 @@
 5-[B_121_Can_you_solve_this](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/121_Can_you_solve_this.py)\
 8-[B_086_1_21](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/086_1_21.py)\
 10-[B_088_Card_Game_for_Two](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/088_Card_Game_for_Two.py)\
-
+\
 11-[B_068_Break_Number](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/068_Break_Number.py)\
 12-[C_160_Traveling_Salesman_around_Lake](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/160_Traveling_Salesman_around_Lake.py)\
 13-[AGC_A_014_Cookie_Exchanges](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/AGC/A/014_Cookie_Exchanges.py)\
@@ -17,7 +17,7 @@
 18-[B_122_ATCoder](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/122_ATCoder.py)\
 19-[B_094_Toll_Gates](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/094_Toll_Gates.py)\
 20-[B_116_Collatz_Problem](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/116_Collatz_Problem.py)\
-
+\
 21-[C_149_Next_Prime](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/149_Next_Prime.py)\
 22-[AGC_A_027_Candy_Distribution_Again](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/AGC/A/027_Candy_Distribution_Again.py)\
 25-[C_150_Count_Order](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/150_Count_Order.py)\
