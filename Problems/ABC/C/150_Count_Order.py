@@ -13,7 +13,3 @@ b = per_sorted.index(q_tuple) + 1
 
 print(abs(a - b))
 
-
-
-# 【備考】
-# Training Easy 25
