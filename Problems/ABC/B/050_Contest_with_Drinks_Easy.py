@@ -15,8 +15,3 @@ for px in px_list:
     t -= (t_list[p] - x)
     
     print(t)
-
-
-
-# 【備考】
-# Training Easy 60
