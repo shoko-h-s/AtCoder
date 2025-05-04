@@ -19,7 +19,3 @@ for i in range(1, n+1):
 
 print(answer)
 
-
-
-# 【備考】
-# Training Easy 11
