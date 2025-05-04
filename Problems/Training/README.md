@@ -20,6 +20,7 @@
 \
 21-[C_149_Next_Prime](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/149_Next_Prime.py)\
 22-[AGC_A_027_Candy_Distribution_Again](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/AGC/A/027_Candy_Distribution_Again.py)\
+23-[B_092_Chocolate](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/092_Chocolate.py)\
 25-[C_150_Count_Order](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/150_Count_Order.py)\
 27-[B_158_Count_Balls](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/158_Count_Balls.py)\
 28-[B_081_Shift_only](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/081_Shift_only.py)\
