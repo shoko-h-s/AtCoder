@@ -16,7 +16,3 @@ for a in a_np:
         
 print(count)
 
-
-
-# 【備考】
-# Training Easy 5
