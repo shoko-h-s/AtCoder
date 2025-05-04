@@ -32,10 +32,3 @@ while True:
         
     else:
         x += 1
-
-# 【別解】
-#　sympyライブラリのisprime()を用いると、もっと簡潔に書けるが遅くなる
-
-
-# 【備考】
-# Training Easy 21
