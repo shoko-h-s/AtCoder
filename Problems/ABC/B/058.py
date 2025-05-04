@@ -14,8 +14,3 @@ else:
     password += o[-1]
     
 print(password)
-
-
-
-# 【備考】
-# Training Easy 64
