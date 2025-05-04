@@ -12,8 +12,3 @@ else:
         
     else:
         print("No")
-
-
-
-# 【備考】
-# Training Easy 33
