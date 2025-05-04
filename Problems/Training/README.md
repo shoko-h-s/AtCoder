@@ -10,6 +10,7 @@
 12-[C_160_Traveling_Salesman_around_Lake](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/160_Traveling_Salesman_around_Lake.py)\
 13-[A_014_ Cookie_Exchanges
  ](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/A/014_Cookie_Exchanges.py)\
+14-[C_161_Replacing_Integer](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/161_Replacing_Integer.py)\
 15-[C_132_Divide_the_Problems](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/132_Divide_the_Problems.py)\
 16-[C_142_Go_to_School](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/142_Go_to_School.py)\
 17-[C_138_Alchemist](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/138_Alchemist.py)\
