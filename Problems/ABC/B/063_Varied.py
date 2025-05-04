@@ -7,8 +7,3 @@ if len(s) == len(s_set):
     print("yes")
 else:
     print("no")
-
-
-
-# 【備考】
-# Training Easy 31
