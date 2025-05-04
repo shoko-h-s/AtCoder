@@ -35,6 +35,7 @@
 38-[B_123_Five_Dishes](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/123_Five_Dishes.py)\
 39-[C_134_Exception_Handling](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/134_Exception_Handling.py)\
 40-[AGC_A_002_Range_Product](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/AGC/A/002_Range_Product.py)\
+\
 42-[B_118_Foods_Loved_by_Everyone](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/118_Foods_Loved_by_Everyone.py)\
 43-[B_044_Beautiful_Strings](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/044_Beautiful_Strings.py)\
 44-[C_124_Coloring_Colorfully](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/124_Coloring_Colorfully.py)\
