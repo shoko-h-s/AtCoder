@@ -16,8 +16,3 @@ else:
     
     # 余りと a、小さい方の値を足す
     print(balls + min(a, mod))
-
-
-
-# 【備考】
-# Training Easy 27
