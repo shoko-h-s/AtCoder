@@ -20,8 +20,3 @@ for value in letters.values():
         
 if flag:
     print("Yes")
-
-
-
-# 【備考】
-# Training Easy 43
