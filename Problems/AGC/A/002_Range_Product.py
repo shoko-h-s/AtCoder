@@ -20,8 +20,3 @@ else:
         
     else:
         print("Negative")
-
-
-
-# 【備考】
-# AGC_002
