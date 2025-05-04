@@ -15,8 +15,3 @@ for i in range(n):
         max_candy = candy
         
 print(max_candy)
-
-
-
-# 【備考】
-# Training Easy 83
