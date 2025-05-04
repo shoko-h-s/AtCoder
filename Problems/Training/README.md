@@ -8,8 +8,7 @@
 10-[B_088_Card_Game_for_Two](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/088_Card_Game_for_Two.py)\
 11-[B_068_Break_Number](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/068_Break_Number.py)\
 12-[C_160_Traveling_Salesman_around_Lake](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/160_Traveling_Salesman_around_Lake.py)\
-13-[A_014_ Cookie_Exchanges
- ](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/A/014_Cookie_Exchanges.py)\
+13-[AGC_A_014_Cookie_Exchanges](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/AGC/A/014_Cookie_Exchanges.py)\
 14-[C_161_Replacing_Integer](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/161_Replacing_Integer.py)\
 15-[C_132_Divide_the_Problems](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/132_Divide_the_Problems.py)\
 16-[C_142_Go_to_School](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/142_Go_to_School.py)\
