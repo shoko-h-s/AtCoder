@@ -15,7 +15,3 @@ for i in range(n):
 
 print(alice - bob)
 
-
-
-# 【備考】
-# Training Easy 10
