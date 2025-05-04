@@ -11,8 +11,3 @@ for i in range(a, b+1):
         count += 1
 
 print(count)
-
-
-
-# 【備考】
-# Training Easy 45
