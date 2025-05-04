@@ -9,8 +9,3 @@ elif a < b:
     print("LESS")
 else:
     print("EQUAL")
-
-
-
-# 【備考】
-# Training Easy 50
