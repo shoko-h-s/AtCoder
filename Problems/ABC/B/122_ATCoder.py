@@ -21,7 +21,3 @@ for s in s_list:
 
 print(length)
 
-
-
-# 【備考】
-# Training Easy 18
