@@ -19,8 +19,3 @@ while True:
         a_list.append(num)
         
     i += 1
-
-
-
-# 【備考】
-# Training Easy 20
