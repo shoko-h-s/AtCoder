@@ -17,7 +17,3 @@ for i in range(n):
         
 print(max_x)
 
-
-
-# 【備考】
-# Training Easy 32
