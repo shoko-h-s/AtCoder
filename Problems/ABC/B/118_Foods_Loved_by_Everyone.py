@@ -11,8 +11,3 @@ for ka in ka_list:
         foods[like_i-1] += 1
         
 print(foods.count(n))
-
-
-
-# 【備考】
-# Training Easy 42
