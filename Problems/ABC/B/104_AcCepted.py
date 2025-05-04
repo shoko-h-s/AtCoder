@@ -19,8 +19,3 @@ else:
         
 if ac_flag:
     print("AC")
-
-
-
-# 【備考】
-# Training Easy 59
