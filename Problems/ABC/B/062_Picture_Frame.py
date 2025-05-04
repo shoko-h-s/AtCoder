@@ -7,8 +7,3 @@ for i in range(h):
     print("#" + a_list[i] + "#")
 
 print("#" * (w + 2))
-
-
-
-# 【備考】
-# Training Easy 49
