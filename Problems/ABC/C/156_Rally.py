@@ -14,7 +14,3 @@ x_sum_2 = sum(x_var_2)
 
 print(min(x_sum_1, x_sum_2))
 
-
-
-# 【備考】
-# Training Easy 2
