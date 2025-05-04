@@ -38,7 +38,3 @@ for ps in ps_list:
             
 print(ac_count, wa_count)
 
-
-
-# 【備考】
-# Training Easy 76
