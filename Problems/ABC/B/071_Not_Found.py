@@ -18,7 +18,3 @@ if len(answer_sorted) > 0:
 else:
     print("None")
 
-
-
-# 【備考】
-# Training Easy 35
