@@ -11,7 +11,3 @@ a_sorted = dict(sorted(a_dic.items(), key = lambda x : x[1]))
 # 辞書のキーのみを取り出す
 print(" ".join(map(str, a_sorted.keys())))
 
-
-
-# 【備考】
-# Training Easy 16
