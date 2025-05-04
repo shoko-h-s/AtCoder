@@ -10,8 +10,3 @@ for i in range(len(s)-2):
         min_num = d
         
 print(min_num)
-
-
-
-# 【備考】
-# Training Easy 29
