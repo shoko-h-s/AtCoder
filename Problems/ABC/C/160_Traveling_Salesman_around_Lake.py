@@ -10,8 +10,3 @@ d_list.append(d)
 
 # すべての家間距離から、最も長い距離を除いたものが答え
 print(sum(d_list) - max(d_list))
-
-
-
-# 【備考】
-# Training Easy 12
