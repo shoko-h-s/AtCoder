@@ -66,5 +66,6 @@
 \
 82-[AGC_A_019_Ice_Tea_Store](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/AGC/A/019_Ice_Tea_Store.py)\
 83-[C_087_Candies](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/087_Candies.py)\
+85-[B_100_Ringos_Favorite_Numbers](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/100_Ringos_Favorite_Numbers.py)\
 88-[B_091_Two_Colors_Card_Game](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/091_Two_Colors_Card_Game.py)\
 90-[B_055_Training_Camp](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/055_Training_Camp.py)\
