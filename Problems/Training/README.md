@@ -69,3 +69,5 @@
 85-[B_100_Ringos_Favorite_Numbers](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/100_Ringos_Favorite_Numbers.py)\
 88-[B_091_Two_Colors_Card_Game](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/091_Two_Colors_Card_Game.py)\
 90-[B_055_Training_Camp](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/B/055_Training_Camp.py)\
+\
+94-[C_079_Train_Ticket](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/079_Train_Ticket.py)\
