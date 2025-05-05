@@ -72,3 +72,4 @@
 \
 94-[C_079_Train_Ticket](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/079_Train_Ticket.py)\
 95-[C_093_Same_Integers](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/093_Same_Integers.py)\
+97-[C_121_Energy_Drink_Collector](https://github.com/shoko-h-s/AtCoder/blob/main/Problems/ABC/C/121_Energy_Drink_Collector.py)\
