@@ -1,6 +1,6 @@
 r, g, b = map(int, input().split())
 
-num = int(str(r) + str(g) + str(b))
+num = 100*r + 10*g + b
 
 if num % 4 == 0:
     print("YES")
