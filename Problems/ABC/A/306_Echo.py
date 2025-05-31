@@ -1,9 +1,9 @@
 n = int(input())
 s = input()
 
-str = ""
+ans = ""
 
-for i in range(len(s)):
-    str += s[i] * 2
-    
-print(str)
+for i in range(n):
+    ans += s[i] * 2
+
+print(ans)
