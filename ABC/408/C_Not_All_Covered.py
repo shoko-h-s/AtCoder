@@ -1,6 +1,3 @@
-# いもす法を知らなかったため、本番ではACできず（愚直な実装でTLE）
-# いもす法を学び、再挑戦したらAC。備忘録として残す。
-
 n, m = map(int, input().split())
 
 # カウント用のリスト
@@ -28,3 +25,9 @@ for i in range(1, n):
     castle_list[i] += castle_list[i-1] + imos_list[i]
 
 print(min(castle_list))
+
+
+
+# 【メモ】
+# いもす法を知らなかったため、本番ではACできず（愚直な実装でTLE）
+# いもす法を学び、再挑戦したらAC。備忘録として残す。
