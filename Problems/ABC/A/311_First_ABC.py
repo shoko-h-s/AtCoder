@@ -1,18 +1,17 @@
 n = int(input())
 s = input()
 
-a_count = 0
-b_count = 0
-c_count = 0
+a_cnt, b_cnt, c_cnt = 0, 0, 0
+i = 0
 
-for i in range(n):
+while (a_cnt == 0) or (b_cnt == 0) or (c_cnt == 0):
     if s[i] == "A":
-        a_count += 1
+        a_cnt += 1
     elif s[i] == "B":
-        b_count += 1
+        b_cnt += 1
     else:
-        c_count += 1
-        
-    if (a_count > 0) and (b_count > 0) and (c_count > 0):
-        print(i+1)
-        break
+        c_cnt += 1
+
+    i += 1
+
+print(i)
