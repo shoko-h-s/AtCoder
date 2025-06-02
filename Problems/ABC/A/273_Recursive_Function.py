@@ -1,6 +1,9 @@
-import math
+def func(x):
+    if x == 0:
+        return 1
+    else:
+        return x * func(x-1)
 
 n = int(input())
 
-# 階乗を求める
-print(math.factorial(n))
+print(func(n))
