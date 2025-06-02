@@ -1,18 +1,16 @@
-import numpy as np
-
 n, m, c = map(int, input().split())
 b_list = list(map(int, input().split()))
 a_list = [list(map(int, input().split())) for _ in range(n)]
 
-b_np = np.array(b_list)
-a_np = np.array(a_list)
+cnt = 0
 
-count = 0
+for i in range(n):
+    total = c
 
-for a in a_np:
-    # 各ソースコードと b_list の内積を求める
-    if np.dot(a, b_np) + c > 0:
-        count += 1
-        
-print(count)
+    for j in range(m):
+        total += a_list[i][j] * b_list[j]
 
+    if total > 0:
+        cnt += 1
+
+print(cnt)
