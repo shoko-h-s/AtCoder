@@ -1,12 +1,12 @@
 s = input()
 
-if s[0] == s[1] == s[2]:
+flag = False
+
+for i in range(3):
+    if s.count(s[i]) == 1:
+        print(s[i])
+        flag = True
+        break
+
+if not flag:
     print(-1)
-elif s[0] == s[1]:
-    print(s[2])
-elif s[1] == s[2]:
-    print(s[0])
-elif s[0] == s[2]:
-    print(s[1])
-else:
-    print(s[0])
