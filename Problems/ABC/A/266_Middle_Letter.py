@@ -1,5 +1,5 @@
 s = input()
 
-s_i = (len(s) + 1) // 2
+mid_s = ((len(s) + 1) // 2) - 1
 
-print(s[s_i - 1])
+print(s[mid_s])
