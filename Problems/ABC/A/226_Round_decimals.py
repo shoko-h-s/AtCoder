@@ -1,5 +1,7 @@
-from decimal import Decimal, ROUND_HALF_UP
+x = input()
 
-x = float(input())
-
-print(Decimal(str(x)).quantize(Decimal("1"), rounding=ROUND_HALF_UP))
+# 誤差対策のため、関数を使わず文字列型で実装
+if int(x[-3]) < 5:
+    print(int(x[:-4]))
+else:
+    print(int(x[:-4]) + 1)
