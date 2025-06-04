@@ -1,15 +1,14 @@
 n = int(input())
 s = input()
 
-string = ""
+ans = ""
 
 for i in range(len(s)):
-    change = ord(s[i]) + n
-    
-    # chr(90) = Z
-    if change > 90:
-        change -= 26
-        
-    string += chr(change)
-    
-print(string)
+    code = ord(s[i]) + n
+
+    if code > ord("Z"):
+        code -= 26
+
+    ans += chr(code)
+
+print(ans)
