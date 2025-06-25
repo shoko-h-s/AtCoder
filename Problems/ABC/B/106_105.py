@@ -1,5 +1,3 @@
-# 106_105
-
 # 約数の個数を求める関数
 def num_divisor(x):
     list_1 = [i for i in range(1, x+1) if x % i == 0]
