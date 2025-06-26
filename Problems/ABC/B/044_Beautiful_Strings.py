@@ -1,22 +1,12 @@
+import collections
+
 w = input()
+count_list = collections.Counter(w)
 
-# 各文字の出現回数を辞書で管理する
-letters = {}
+value_list = list(count_list.values())
+value_list_2 = [v for v in value_list if v % 2 == 0]
 
-flag = True
-
-for i in range(len(w)):
-    if w[i] in letters:
-        letters[w[i]] += 1
-        
-    else:
-        letters[w[i]] = 0
-
-for value in letters.values():
-    if value % 2 != 1:
-        flag = False
-        print("No")
-        break
-        
-if flag:
+if len(value_list) == len(value_list_2):
     print("Yes")
+else:
+    print("No")
