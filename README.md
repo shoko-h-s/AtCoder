@@ -1,4 +1,5 @@
-[Problems への提出記録](https://kenkoooo.com/atcoder/#/user/shokohs?userPageTab=Submissions)\
+- ABC：リアルタイムで参加した大会の提出コード。
+- Problems：AtCoder Problemsでの問題演習。
 \
-【特に重要なコード】
-- [いもす法](https://github.com/shoko-h-s/AtCoder/blob/main/ABC/408/C_Not_All_Covered.py)
+[AtCoder Problems への提出記録](https://kenkoooo.com/atcoder/#/user/shokohs?userPageTab=Submissions)\
+\
